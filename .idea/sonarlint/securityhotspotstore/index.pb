@@ -23,7 +23,7 @@ O
 .src/코테입문/문자열안에문자열.java,1/4/145f7005fc6a06be392cc94e6c77302ca4ad0e7c
 U
 %src/코테입문/배열뒤집기.java,5/e/5e64708c5de6454c337ff86c5193a75f9ed9730c
-H
-src/스터디/ROT13.java,d/5/d5b285a4ab92f42bb9499294aa1fb1374b508443
 N
 src/백준스터디/ROT13.java,c/4/c47efe30fbd11b1c477ec0a179ce63601ada6101
+X
+(src/백준스터디/소인수분해.java,6/2/62518b2cb17859de59929f6b6a769e81f62da07e
