@@ -27,3 +27,9 @@ N
 src/백준스터디/ROT13.java,c/4/c47efe30fbd11b1c477ec0a179ce63601ada6101
 X
 (src/백준스터디/소인수분해.java,6/2/62518b2cb17859de59929f6b6a769e81f62da07e
+V
+&src/백준스터디/컵홀더2810.java,a/f/af5a58e632491f927704023f990de57e7cb36d3b
+A
+src/algorithm.iml,4/d/4d80571eb95dac80388325491664ea01f8308ac8
+=
+algorithm.iml,1/6/1648eeac5c90967ac9aba4bdea7c72a8ab9f970f
