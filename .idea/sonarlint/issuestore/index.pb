@@ -35,3 +35,5 @@ A
 algorithm.iml,1/6/1648eeac5c90967ac9aba4bdea7c72a8ab9f970f
 R
 "src/백준스터디/더하기.java,f/0/f096197dc61b54c6214a47b9b4d15966e5ce0422
+\
+,src/백준스터디/카드구매하기2.java,1/8/18b725ea5d4ab37a853658a471bb3a90ac1873d4
