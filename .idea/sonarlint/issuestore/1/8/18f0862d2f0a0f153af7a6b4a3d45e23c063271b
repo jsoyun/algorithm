@@ -1,0 +1,18 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘‚ß¾üÿÿÿÿ8ÊáÃæÕ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×àŒ8ÊáÃæÕ1
+n	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©şÑúÿÿÿÿ8ËáÃæÕ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Şêç•şÿÿÿÿ8ËáÃæÕ1
+G
+java:S1197"*Move the array designators [] to the type.(×àŒ8ãáÃæÕ1
+G
+java:S1197"*Move the array designators [] to the type.(÷íìË8ãáÃæÕ1
+G	java:S106"+Replace this use of System.out by a logger.(¦ò‹–8äáÃæÕ1
+L	java:S106&"+Replace this use of System.out by a logger.(±ÚÂ˜øÿÿÿÿ8äáÃæÕ1
+]	java:S125)"<This block of commented-out lines of code should be removed.(÷‚Áİüÿÿÿÿ8†¨ÆæÕ1
+]	java:S125-"<This block of commented-out lines of code should be removed.(îì‰Âıÿÿÿÿ8äáÃæÕ1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8şŞÅæÕ1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8äáÃæÕ1
