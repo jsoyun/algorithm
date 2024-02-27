@@ -1,0 +1,34 @@
+
+m	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡äÙÆ8ÙÀÍÊŞ1
+r	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÑêùÿÿÿÿ8ÙÀÍÊŞ1
+r	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¯ÎÜÿÿÿÿÿ8ÙÀÍÊŞ1
+m	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÈ…ø8ÙÀÍÊŞ1
+l	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é“­h8ÙÀÍÊŞ1
+{
+java:S1488m"^Immediately return this expression instead of assigning it to the temporary variable "answer".(öÀ‚î8ÙÀÍÊŞ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(â„´å8ÙÀÍÊŞ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÉ—íøÿÿÿÿ8ÚÀÍÊŞ1
+W
+java:S1854";Remove this useless assignment to local variable "answers".(£İA8¤ÁÍÊŞ1
+H
+java:S1481",Remove this unused "answers" local variable.(£İA8¤ÁÍÊŞ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Æå ±8¤ÁÍÊŞ1
+[
+java:S1854R"9Remove this useless assignment to local variable "score".(÷ûØÄüÿÿÿÿ8¥ÁÍÊŞ1
+Q
+java:S1854d"5Remove this useless assignment to local variable "A".(é“­h8¥ÁÍÊŞ1
+X	java:S125"<This block of commented-out lines of code should be removed.( ­ˆı8¥ÁÍÊŞ1
+L
+java:S1197N"*Move the array designators [] to the type.(—àÄùüÿÿÿÿ8¦ÁÍÊŞ1
+G
+java:S1197O"*Move the array designators [] to the type.(Øß¡±8¦ÁÍÊŞ1
+G
+java:S1197P"*Move the array designators [] to the type.(äÈ…ø8¦ÁÍÊŞ1
+L
+java:S1197R"*Move the array designators [] to the type.(÷ûØÄüÿÿÿÿ8¦ÁÍÊŞ1
+L
+java:S1481R"*Remove this unused "score" local variable.(÷ûØÄüÿÿÿÿ8¦ÁÍÊŞ1
+F
+java:S1197d"*Move the array designators [] to the type.(é“­h8¦ÁÍÊŞ1
+B
+java:S1481d"&Remove this unused "A" local variable.(é“­h8§ÁÍÊŞ1

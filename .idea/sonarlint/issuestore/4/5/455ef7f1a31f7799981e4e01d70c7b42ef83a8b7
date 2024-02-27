@@ -1,0 +1,12 @@
+
+L
+java:S1066"/Merge this if statement with the enclosing one.(±º³‹8×«¥¥Þ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªý í8†×Ö¤Þ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÉ—íøÿÿÿÿ8‡×Ö¤Þ1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8£×Ö¤Þ1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ì¬¨èýÿÿÿÿ8£×Ö¤Þ1
+G
+java:S1197"*Move the array designators [] to the type.(“äÍË8¥×Ö¤Þ1
+G	java:S106-"+Replace this use of System.out by a logger.(ô¤„å8·Ð×¤Þ1
