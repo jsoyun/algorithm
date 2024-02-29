@@ -3,6 +3,13 @@ package 프로그래머스;
 import java.util.ArrayList;
 
 public class 완전탐색_소수찾기_다시 {
+    /**
+     * 1. DFS 이용
+     * 1-1. 종료조건있어야함 (종료조건병확, 경우의 수를 살펴야하는 경우DFS쓴다.깊이탐색
+     * 1-2. 재귀함수로 자기 자신 출력 (해서 반복!
+     * 2. 체크리스트 이용
+     * 3.
+     */
 
 
     public static void main(String[] args) {
