@@ -84,7 +84,7 @@ public class 완전탐색_모의고사 {
         for (int i = 0; i < answers.length; i++) {
             if (answers[i] == firstList[i % firstList.length]) {
 
-                first_A++;
+                first_A++; //score[0]++ 이것도 된다!
             }
             if (answers[i] == secondList[i % secondList.length]) {
                 second_A++;

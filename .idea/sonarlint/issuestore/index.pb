@@ -49,3 +49,11 @@ e
 5src/프로그래머스/완전탐색_모의고사.java,1/1/119e3f1286ce06069f44c4c37e55b25cbab394a1
 k
 ;src/프로그래머스/완전탐색_최소직사각형.java,7/3/73a46fd706d6a53c4b6c3fd07cd8b5deb7a97def
+e
+5src/프로그래머스/완전탐색_소수찾기.java,6/7/672fc3e4be8de0bed44bd2d44f91ece2801cb94b
+l
+<src/프로그래머스/완전탐색_소수찾기_다시.java,d/1/d16e6b9bc52ce9f45b4b08b062177c2f1174015a
+s
+Csrc/프로그래머스/완전탐색소수찾기_다시solution.java,1/b/1bd29275f39e8e14a2056e0716f10994f589af1f
+_
+/src/프로그래머스/완전탐색_카펫.java,8/2/82abaab79dedadb892f2536bd168968e699677b8
