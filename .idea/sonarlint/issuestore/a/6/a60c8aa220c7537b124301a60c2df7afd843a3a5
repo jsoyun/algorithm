@@ -1,10 +1,0 @@
-
-€
-java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "answer".(ıä—‹ÿÿÿÿÿ8Ğš»¾Ş1
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÄÃİ8»´¨¾Ş1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÉ—íøÿÿÿÿ8¼´¨¾Ş1
-Q
-java:S1854"5Remove this useless assignment to local variable "f".(Ì›à8—µ¨¾Ş1
-B
-java:S1481"&Remove this unused "f" local variable.(Ì›à8˜µ¨¾Ş1
-X	java:S125"<This block of commented-out lines of code should be removed.(Â†·‹8şŒ¾¾Ş1
