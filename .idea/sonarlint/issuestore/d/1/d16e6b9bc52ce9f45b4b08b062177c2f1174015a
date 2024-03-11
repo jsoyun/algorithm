@@ -1,13 +1,13 @@
 
-8
-java:S1643D"Use a StringBuilder instead.(Æ’©o8œºœõŞ1
+^
+java:S1643D"Use a StringBuilder instead.(Æ’©o8œºœõŞ1J$718bde34-4dcb-41ee-925e-39336e916548
+”
+java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(˜“ÿ±8ÏĞôŞ1J$a1481347-ace4-4158-a511-eacc7b190847
 n
-java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(˜“ÿ±8ÏĞôŞ1
-H
-java:S1444"+Make this "public static count" field final(˜“ÿ±8ÏĞôŞ1
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­ë°şÿÿÿÿÿ8ÏĞôŞ1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÉ—íøÿÿÿÿ8ĞĞôŞ1
-L	java:S1067"+Replace this use of System.out by a logger.(ˆşé¼ùÿÿÿÿ8ñ¡ôŞ1
-]	java:S125E"<This block of commented-out lines of code should be removed.(Ã¡¤ÿÿÿÿÿ8š÷¿ôŞ1
-]	java:S125J"<This block of commented-out lines of code should be removed.(Ã¡¤ÿÿÿÿÿ8š÷¿ôŞ1
-]	java:S125O"<This block of commented-out lines of code should be removed.(Ã¡¤ÿÿÿÿÿ8š÷¿ôŞ1
+java:S1444"+Make this "public static count" field final(˜“ÿ±8ÏĞôŞ1J$2455e4fc-c991-4dbc-bd86-d8b282c2ecee
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­ë°şÿÿÿÿÿ8ÏĞôŞ1J$bcd31872-f010-493a-ab5a-bb8fbca05135
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÉ—íøÿÿÿÿ8ĞĞôŞ1J$65bd4195-4f72-422b-8b29-4eaaee66432b
+r	java:S1067"+Replace this use of System.out by a logger.(ˆşé¼ùÿÿÿÿ8ñ¡ôŞ1J$a064210e-a19b-40e3-9292-10bb5ae2ee2f
+ƒ	java:S125E"<This block of commented-out lines of code should be removed.(Ã¡¤ÿÿÿÿÿ8š÷¿ôŞ1J$9450d4bf-55ab-412e-b4e1-6e7ace31efb8
+ƒ	java:S125J"<This block of commented-out lines of code should be removed.(Ã¡¤ÿÿÿÿÿ8š÷¿ôŞ1J$1e0026e5-5970-4087-8201-fa48f92762f5
+ƒ	java:S125O"<This block of commented-out lines of code should be removed.(Ã¡¤ÿÿÿÿÿ8š÷¿ôŞ1J$990ca368-df28-4348-bdf5-063121b58422

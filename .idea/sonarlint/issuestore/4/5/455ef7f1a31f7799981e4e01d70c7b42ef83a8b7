@@ -1,12 +1,12 @@
 
-L
-java:S1066"/Merge this if statement with the enclosing one.(±º³‹8×«¥¥Ş1
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªı í8†×Ö¤Ş1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÉ—íøÿÿÿÿ8‡×Ö¤Ş1
 r
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8£×Ö¤Ş1
-r
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ì¬¨èıÿÿÿÿ8£×Ö¤Ş1
-G
-java:S1197"*Move the array designators [] to the type.(“äÍË8¥×Ö¤Ş1
-G	java:S106-"+Replace this use of System.out by a logger.(ô¤„å8·Ğ×¤Ş1
+java:S1066"/Merge this if statement with the enclosing one.(±º³‹8×«¥¥Ş1J$8cec5961-ed7f-4ade-abca-2b06a659417f
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªı í8†×Ö¤Ş1J$40dc6e23-62f8-4a11-8ecc-573b55d04a18
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÉ—íøÿÿÿÿ8‡×Ö¤Ş1J$989115a5-6298-42d3-b1e0-7e4b7c7cd177
+˜
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8£×Ö¤Ş1J$79fd5bf4-c71b-46ab-8fa3-c3e185a377ea
+˜
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ì¬¨èıÿÿÿÿ8£×Ö¤Ş1J$bf50cd20-f8ac-458d-8d8d-73cb43a8bb7c
+m
+java:S1197"*Move the array designators [] to the type.(“äÍË8¥×Ö¤Ş1J$1749f04c-390f-4d9b-8953-3a08c4d23cac
+m	java:S106-"+Replace this use of System.out by a logger.(ô¤„å8·Ğ×¤Ş1J$aefe0747-3c26-4a69-b7d1-a4691437f6f8

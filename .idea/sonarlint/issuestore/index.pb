@@ -74,3 +74,5 @@ _
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+\
+,src/백준스터디/분수찾기1193번.java,0/a/0a30c6d6a2105f7cda4d3bf0c9041b8f8eb142d5

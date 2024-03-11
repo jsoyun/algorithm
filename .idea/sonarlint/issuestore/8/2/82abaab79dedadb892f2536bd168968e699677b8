@@ -1,10 +1,10 @@
 
-u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(§°®‚8Ş´·‘ß1
-{
-java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "answer".(çáù8ß´·‘ß1
-h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªåï38ß´·‘ß1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÉ—íøÿÿÿÿ8à´·‘ß1
-^
-java:S2094"BRemove this empty class, write its code or make it an "interface".(ªåï38ÔÅ¹‘ß1
-<
-java:S1659"Declare "y" on a separate line.(äÛÁ”8æ´·‘ß1
+›	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(§°®‚8Ş´·‘ß1J$ed4e7a85-0114-43eb-8d01-6b79b597a5c8
+¡
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "answer".(çáù8ß´·‘ß1J$a4cd4a07-28be-4fad-b778-8122b78ad280
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªåï38ß´·‘ß1J$ca11f8a4-aebf-4ebb-b460-f06240021daf
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÉ—íøÿÿÿÿ8à´·‘ß1J$7a5395a3-6902-472e-ab45-9bf01d6dfa6d
+„
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ªåï38ÔÅ¹‘ß1J$3db07809-6250-43be-a9e1-64b1c71845a6
+b
+java:S1659"Declare "y" on a separate line.(äÛÁ”8æ´·‘ß1J$fc3aef95-dd28-42cd-8646-1120bfadf093
