@@ -3,10 +3,8 @@ package 백준스터디;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.StringTokenizer;
 
 public class 빙고2578번 {
 
@@ -56,6 +54,7 @@ public class 빙고2578번 {
 
         System.out.println("queue = " + queue);
 
+
         int countNumberOrder = 0;
         int countBingo = 0;
 
@@ -73,6 +72,12 @@ public class 빙고2578번 {
 
                 }
             }
+
+            //헉설마 countBingo가 먼저 빙고 3이 되는 이유가..
+            //막상 빙고는 2개밖에 없는데 3이 되는 이유가..
+            //같은 빙고를 또 카운트해서 그런가???
+
+            //TODO: 한번만 카운트되게 어떻게 하지..?
 
 
             //빙고됐는지 체크
@@ -142,27 +147,29 @@ public class 빙고2578번 {
 //
 //
 //            }
+
             //이렇게 순회해서 확인!했을 때 빙고가 색칠되어 있으면 카운트! 3개 이상이면 빙고!!
             if (countBingo >= 3) {
                 queue.clear();
             }
 
+            countBingo = 0; //초기화하는 이유는? 뭘까? 아 내부에서 빙고를 계속 세니까 처음부터 다시 세어야하는군!!
+
         }
-
-        for (int i = 0; i < 5; i++) {
-            System.out.println();
-
-            for (int j = 0; j < 5; j++) {
-
-                System.out.print(board[i][j] + " ");
-
-
-            }
-        }
+//
+//        for (int i = 0; i < 5; i++) {
+//            System.out.println();
+//
+//            for (int j = 0; j < 5; j++) {
+//
+//                System.out.print(board[i][j] + " ");
+//
+//
+//            }
+//        }
 
 
         System.out.println("countNumberOrder = " + countNumberOrder);
-        System.out.println("countBingo = " + countBingo);
 
 
     }
