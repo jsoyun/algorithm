@@ -1,16 +1,14 @@
-package 알고리즘코딩테스트_패스트캠퍼스강의;
-
+package 알고리즘코딩테스트_패스트캠퍼스강의.완전탐색_시뮬레이션;
 
 import java.util.Scanner;
 
-public class Main {
-
+public class 회문인수11068 {
 
     public static int[] convertBase(int x, int B) {
         //딱맞는 길이로 나타낸다.
         int len = 0, copyX = x;
-        while (copyX > 0) {
-            copyX /= B;
+        while (x > 0) {
+            x /= B;
             len++;
         }
         int[] digit = new int[len];
@@ -164,5 +162,3 @@ public class Main {
 
     }
 }
-
-

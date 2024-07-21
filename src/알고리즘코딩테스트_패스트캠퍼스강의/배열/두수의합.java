@@ -23,16 +23,24 @@ public class 두수의합 {
             exist[a[i]] = true;
         }
         int ans = 0;
-        for (int i = 0; i < N; i++) {
-            //페어값
-            int pairValue = x - a[i];
-            //인덱스로 사용할 때는 항상 범위 체크 해야함
-            if (0 <= pairValue && pairValue <= 1000000) {
-                ans += exist[pairValue] ? 1 : 0;
-            }
+//        for (int i = 0; i < N; i++) {
+//            //페어값
+//            int pairValue = x - a[i];
+//            //인덱스로 사용할 때는 항상 범위 체크 해야함
+//            if (0 <= pairValue && pairValue <= 1000000) {
+//                ans += exist[pairValue] ? 1 : 0;
+//            }
+//
+//        }
+//        System.out.println("ans /2 = " + ans / 2);
 
+        for (int i = 1; i < (x - 1) / 2; i++) {
+            if (i <= 1000000 && x - i <= 1000000) {
+                ans += (exist[i] && exist[x - i]) ? 1 : 0;
+            }
         }
-        System.out.println("ans /2 = " + ans / 2);
+        System.out.println("ans  = " + ans);
+
 
     }
 }
