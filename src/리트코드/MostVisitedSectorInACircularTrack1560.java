@@ -1,7 +1,6 @@
 package 리트코드;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class MostVisitedSectorInACircularTrack1560 {
@@ -10,10 +9,10 @@ public class MostVisitedSectorInACircularTrack1560 {
     public static void main(String[] args) {
         int n = 4;
         int[] rounds = {1, 3, 1, 2};
-        Solution solution = new Solution();
-        List<Integer> integers = solution.mostVisited(n, rounds);
+        Solution875 solution = new Solution875();
+//        List<Integer> integers = solution.mostVisited(n, rounds);
 
-        System.out.println(integers);
+//        System.out.println(integers);
     }
 
 
